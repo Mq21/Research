@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "muscle_synergy", "muscle_synergy\muscle_synergy.pyproj", "{FD7757D2-FD66-41BA-96B6-8B0296FAA6E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD7757D2-FD66-41BA-96B6-8B0296FAA6E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7757D2-FD66-41BA-96B6-8B0296FAA6E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BAF12E9-CF6C-4EB7-8923-826150689F93}
+	EndGlobalSection
+EndGlobal
